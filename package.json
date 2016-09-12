@@ -1,0 +1,28 @@
+{
+  "name": "update-events",
+  "version": "1.0.0",
+  "description": "Array of DOM update events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/update-events.git"
+  },
+  "keywords": [
+    "DOM",
+    "update",
+    "events"
+  ],
+  "author": "@dam",
+  "contributors": [
+    {"name": "Max Ogden"},
+    {"name": "Kyle Robinson Young"}
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/update-events/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/update-events#readme"
+}
